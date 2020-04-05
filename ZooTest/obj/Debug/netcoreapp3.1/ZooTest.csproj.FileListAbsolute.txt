@@ -1,0 +1,13 @@
+D:\C#\ZooTest\bin\Debug\netcoreapp3.1\ZooTest.exe
+D:\C#\ZooTest\bin\Debug\netcoreapp3.1\ZooTest.deps.json
+D:\C#\ZooTest\bin\Debug\netcoreapp3.1\ZooTest.runtimeconfig.json
+D:\C#\ZooTest\bin\Debug\netcoreapp3.1\ZooTest.runtimeconfig.dev.json
+D:\C#\ZooTest\bin\Debug\netcoreapp3.1\ZooTest.dll
+D:\C#\ZooTest\bin\Debug\netcoreapp3.1\ZooTest.pdb
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.csprojAssemblyReference.cache
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.csproj.CoreCompileInputs.cache
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.AssemblyInfoInputs.cache
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.AssemblyInfo.cs
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.dll
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.pdb
+D:\C#\ZooTest\obj\Debug\netcoreapp3.1\ZooTest.genruntimeconfig.cache
